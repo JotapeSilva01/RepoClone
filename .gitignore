@@ -1,0 +1,6 @@
+# BlackList
+# Ignorando arquivo por esplicitamente: nome.txt
+teste.txt
+
+# Ignorando TODOS: *.js
+*.js
